@@ -2690,104 +2690,104 @@ annotations:
     reference: ''
     span:
       start: 534430
-      end: 536387
+      end: 536389
     note_ref: ''
   20e4255cdde7466887231f385494ab5d:
     imgnum: 407
     reference: ''
     span:
-      start: 536389
-      end: 538224
+      start: 536391
+      end: 538226
     note_ref: ''
   19a108afd5094020b5137e2c3ce23c7f:
     imgnum: 408
     reference: ''
     span:
-      start: 538226
-      end: 540046
+      start: 538228
+      end: 540048
     note_ref: ''
   805c8618c23c4ed9a3fe4f37079e9148:
     imgnum: 409
     reference: ''
     span:
-      start: 540048
-      end: 541802
+      start: 540050
+      end: 541804
     note_ref: ''
   4c7e930aab124362b6e87dbb600d8e7d:
     imgnum: 410
     reference: ''
     span:
-      start: 541804
-      end: 543789
+      start: 541806
+      end: 543791
     note_ref: ''
   e5a2fc89ab054a10872693ee13919163:
     imgnum: 411
     reference: ''
     span:
-      start: 543791
-      end: 545836
+      start: 543793
+      end: 545838
     note_ref: ''
   5b1b3f6607c74ea09e7d078df8f03bee:
     imgnum: 412
     reference: ''
     span:
-      start: 545838
-      end: 547628
+      start: 545840
+      end: 547630
   09c0a01684b245eb9cbb6493ba2c5050:
     imgnum: 413
     reference: ''
     span:
-      start: 547630
-      end: 549503
+      start: 547632
+      end: 549505
     note_ref: ''
   304ed9e113174a129fafbbc38ff0ea11:
     imgnum: 414
     reference: ''
     span:
-      start: 549505
-      end: 551431
+      start: 549507
+      end: 551433
     note_ref: ''
   cb5ed4930d5340c9bca0bdde6a54e789:
     imgnum: 415
     reference: ''
     span:
-      start: 551433
-      end: 553283
+      start: 551435
+      end: 553285
     note_ref: ''
   2d2d81dd45c042c7886b529c3027bfc5:
     imgnum: 416
     reference: ''
     span:
-      start: 553285
-      end: 555078
+      start: 553287
+      end: 555080
     note_ref: ''
   c5d3b507755045c9b5518dd1e4939589:
     imgnum: 417
     reference: ''
     span:
-      start: 555080
-      end: 557119
+      start: 555082
+      end: 557121
     note_ref: ''
   d41f8da06b45425b9892857a424e6e29:
     imgnum: 418
     reference: ''
     span:
-      start: 557121
-      end: 559080
+      start: 557123
+      end: 559082
     note_ref: ''
   7e7a3a0ce7ec48d4a0f5d924a11fe6ef:
     imgnum: 419
     reference: ''
     span:
-      start: 559082
-      end: 560996
+      start: 559084
+      end: 560998
     note_ref: ''
   4a756326f9af42f08461b12db9b3cefa:
     imgnum: 420
     reference: ''
     span:
-      start: 560998
-      end: 562385
+      start: 561000
+      end: 562387
     note_ref: ''
 local_ids:
   4d83e2c244a04ba7b875cb8ffa0bc406: 200000
